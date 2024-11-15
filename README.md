@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Velic's
+Velic's Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Watch your favorite anime
+* Message other creator
+* Rate others anime
+* Search other anime
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +19,13 @@ TechFolio Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/s1.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/s3.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/s2.jpg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
